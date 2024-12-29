@@ -1,4 +1,4 @@
-# Python Course Codes
+# Python Course
 
 Welcome to my Python course repository! This repository contains all the codes that I was explained during my Python course. The codes are organized into folders based on the modules covered in the course. All codes are in `.ipynb` format, making it easy to explore and run them interactively using Jupyter Notebook.
 
